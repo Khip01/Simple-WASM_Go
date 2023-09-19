@@ -23,7 +23,7 @@ Language: English
   ```server/main.go``` **--(preparing)-->** ```WASM Component``` (index.html, script.js, main.wasm)
 
   2. WASM Preparing process: <br>
-  ```index.html``` **--(get WASM action through) js-->** ```script.js``` **--(js Get WASM action)-->** ```main.wasm```
+  ```index.html``` **--(get WASM action through js)-->** ```script.js``` **--(js Get WASM action)-->** ```main.wasm```
 
   3. And finally, <br>
   ```main.wasm``` will return some action to ```index.html``` through ```script.js``` so that client/user can receive the requested action in index.html
