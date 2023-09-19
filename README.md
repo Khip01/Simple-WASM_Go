@@ -28,6 +28,8 @@ Language: English
   3. And finally, <br>
   ```main.wasm``` will return some action to ```index.html``` through ```script.js``` so that client/user can receive the requested action in index.html
 
+<br>**Youtube Reference**: [Go and WebAssembly | Learn the Basics of WASM](https://www.youtube.com/watch?v=10Mz3z-W1BE)
+
 ## Instruction : 
 - Clone this repo ( ```git clone https://github.com/Khip01/Simple-WASM_Go.git``` )
 - Then run the server/main.go
